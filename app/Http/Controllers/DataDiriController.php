@@ -30,8 +30,6 @@ class DataDiriController extends Controller
             $data->jenis_kelamin = $line[2]; //berisi jenis kelamin
             $data->alamat = $line[3]; //berisi alamat
             $data->save(); // menyimpan pada database
-
-            
         }
 
         //select semua data dari database

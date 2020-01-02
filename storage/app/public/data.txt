@@ -1,0 +1,4 @@
+|12312313|ijal|pria|jakarta selatan|
+|12312314|shafly|pria|jakarta utara|
+|12312315|wasis|pria|jakarta timur|
+|12312316|erwin|pria|jakarta barat|
