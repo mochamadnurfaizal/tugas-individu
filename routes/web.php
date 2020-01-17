@@ -21,3 +21,6 @@ Route::get('/data_diri','DataDiriController@index');
 Route::get('/tes', function () {
     return "berhasil";
 });
+
+
+#note
